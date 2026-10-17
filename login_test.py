@@ -11,6 +11,7 @@ def test_login_with_valid_credentials():
     assert password != ""
 
     print("PASS: Username and password are provided")
+    print("AttendX login test completed.")
 
 
 test_login_with_valid_credentials()
