@@ -24,3 +24,4 @@ status are provided.
 ## Purpose
 To demonstrate version control of test scripts
 using Git and GitHub.
+Repository updated directly on GitHub
